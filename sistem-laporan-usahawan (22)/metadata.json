@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Laporan Usahawan",
+  "description": "A comprehensive entrepreneur reporting system for PPPK staff featuring submission forms, history tracking, and an admin dashboard with advanced filtering, analytics, and Excel export capabilities.",
+  "requestFramePermissions": []
+}
